@@ -1,0 +1,53 @@
+# Welcome to Sonic Pi v3.1
+
+use_synth :piano
+live_loop :riff do
+  play :Fs4
+  sleep 0.25
+  play :Fs4
+  sleep 0.25
+  play :Fs4
+  sleep 0.25
+  play :D4
+  sleep 0.5
+  play :B3
+  sleep 0.5
+  play :E4
+  sleep 0.5
+  play :E4
+  sleep 0.5
+  play :E4
+  sleep 0.25
+  play :Gs4
+  sleep 0.25
+  play :Gs4
+  sleep 0.25
+  play :A4
+  sleep 0.25
+  play :B4
+  sleep 0.25
+  play :A4
+  sleep 0.25
+  play :A4
+  sleep 0.25
+  play :A4
+  sleep 0.25
+  play :E4
+  sleep 0.5
+  play :D4
+  sleep 0.5
+  play :Fs4
+  sleep 0.5
+  play :Fs4
+  sleep 0.5
+  play :Fs4
+  sleep 0.25
+  play :E4
+  sleep 0.25
+  play :E4
+  sleep 0.25
+  play :Fs4
+  sleep 0.5
+  play :E4
+  sleep 0.25
+end
