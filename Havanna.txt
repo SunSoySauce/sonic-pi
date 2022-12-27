@@ -9,23 +9,23 @@ live_loop :drum do
   
   
   live_loop :rift do
-    play :g1
+    play :g2
     sleep 0.5
     play chord :g2, :minor
     sleep 0.25
-    play :G1
+    play :G2
     sleep 0.25
-    play :Eb1
+    play :Eb2
     sleep 0.5
     play chord :Eb2, :major
     sleep 0.25
-    play :Eb1
+    play :Eb2
     sleep 0.25
-    play :D1
+    play :D2
     sleep 0.5
     play chord :D2, :major
     sleep 0.25
-    play :D1
+    play :D2
     sleep 0.25
     play :eb2
     sleep 0.25
@@ -33,4 +33,3 @@ live_loop :drum do
     sleep 0.75
   end
 end
-
